@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "taller-python-bases-de-datos"
+version = "0.1.0"
+description = "Taller en Jupyter notebook para aprender a usar bases de datos con Python."
+authors = ["Guillermo Valdes <guillermo.valdes@pjecz.gob.mx>"]
+license = "AGPL3"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+ipython = "^8.13.2"
+numpy = "^1.24.3"
+pandas = "^2.0.1"
+ipykernel = "^6.23.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

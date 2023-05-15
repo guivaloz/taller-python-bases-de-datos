@@ -1,0 +1,6 @@
+.bashrc
+.env
+poetry.lock
+*.csv
+*.xlsx
+/.venv
