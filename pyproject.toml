@@ -11,6 +11,8 @@ ipython = "^8.13.2"
 numpy = "^1.24.3"
 pandas = "^2.0.1"
 ipykernel = "^6.23.0"
+requests = "^2.30.0"
+python-dotenv = "^1.0.0"
 
 [tool.poetry.dev-dependencies]
 
